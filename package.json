@@ -1,0 +1,19 @@
+{
+  "name": "7hrpc",
+  "version": "1.0.0",
+  "description": "My own little Program which shows how much Ram and CPU is used in Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7h3730B/7hRPC.git"
+  },
+  "author": "7h3730B",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/7h3730B/7hRPC/issues"
+  },
+  "homepage": "https://github.com/7h3730B/7hRPC#readme"
+}
