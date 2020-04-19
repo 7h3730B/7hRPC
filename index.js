@@ -184,6 +184,7 @@ async function refresh() {
 }
 
 try {
+    console.log("Running in the mode: " + modeavg);
     if (modeavg == "cycle") {
         cycle();
         setInterval(cycle, 30000);
