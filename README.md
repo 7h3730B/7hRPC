@@ -11,7 +11,7 @@ Make sure you have [node.js](node.js.org) installed.
 ```sh
 git clone https://github.com/7h3730B/7hRPC.git
 ```
-2. Go into the directory created and open a terminal.
+2. Go into the directory created and open a terminal in the directory you extracted/cloned the repositorie to.
 
 3. Download all Dependencies
 ```sh
