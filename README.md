@@ -1,6 +1,6 @@
 # 7hRPC
-Have you ever wanted to show people on Discord how good your PC is?
-No?
+Have you ever wanted to show people on Discord how good or bad your PC is?  
+No?   
 But now you can.
 
 ---
