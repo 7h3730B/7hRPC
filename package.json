@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/7h3730B/7hRPC/issues"
   },
-  "homepage": "https://github.com/7h3730B/7hRPC#readme"
+  "homepage": "https://github.com/7h3730B/7hRPC#readme",
+  "dependencies": {
+    "discord-rich-presence": "^0.0.8",
+    "systeminformation": "^4.23.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
 }
