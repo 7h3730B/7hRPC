@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align="center">
     <h1>~ 7hRPC ~</h1>
     <strong>
@@ -25,18 +24,11 @@
 ---
 ## Intro
 This Program allows you to show your PC Hardware to Discord Servers threw Discord RPC.
-=======
-# 7hRPC
-> Have you ever wanted to show people on Discord how good or bad your PC is?  
-> No?   
-> But now you can.
->>>>>>> ed541a7be2f72e665e90523135225ace45db5f59
 
 ---
-## usage
+## Usage
 ---
 ### Installation
-<<<<<<< HEAD
 Make sure you have [git](https://git-scm.com/) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com/)) installed.
 From the Commandline:
 ``` BASH
@@ -48,24 +40,6 @@ $ cd 7hRPC
 $ npm i
 # Run the Program
 $ node index.js
-=======
-Make sure you have [node.js](node.js.org) installed.
-
-1. Download this Repo from [here](https://github.com/7h3730B/7hRPC/releases) or just clone it.
-```sh
-git clone https://github.com/7h3730B/7hRPC.git
-```
-2. Go into the directory created and open a terminal in the directory you extracted/cloned the repository to.
-
-3. Download all Dependencies
-```sh
-npm i
-```
-
-4. Run the Program
-```sh
-node index.js
->>>>>>> ed541a7be2f72e665e90523135225ace45db5f59
 ```
 ---
 ### How to use
