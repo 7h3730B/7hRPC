@@ -16,8 +16,8 @@
 
 * [Intro](#intro) 
 * [Usage](#usage) 
-    * [Installation](#installaion)
-    * [How to use](#howtouse)
+    * [Installation](#installation)
+    * [How to use](#how-to-use)
     * [Modes](#modes)
 * [Dependencies](#dependencies)  
 * [License](#license)
