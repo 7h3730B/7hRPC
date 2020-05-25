@@ -70,7 +70,7 @@ processinfo:
 motherboardinfo:  
 <img src="https://raw.github.com/7h3730B/7hRPC/master/images/motherboardinfo.png">  
 disksinfo:  
-<img src="https://raw.github.com/7h3730B/7hRPC/master/images/disksinfo.png">  
+<img src="https://raw.github.com/7h3730B/7hRPC/master/images/diskinfo.png">  
 
 ---
 ## Dependencies
