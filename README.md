@@ -76,7 +76,7 @@ disksinfo:
 ## Dependencies
 - [discord-rich-presence](https://www.npmjs.com/package/discord-rich-presence) to send the Data to Discord  
 - [systeminformation](https://www.npmjs.com/package/systeminformation) to get all the Data
---
+---
 ## License
 > You can check out the full license [here](https://github.com/7h3730B/7hRPC/blob/master/LICENSE)   
 
